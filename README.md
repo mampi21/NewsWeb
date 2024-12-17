@@ -1,3 +1,7 @@
+## Demo Video
+
+You can watch the demo video here: [NewsWeb.mp4](https://github.com/mampi21/NewsWeb/blob/main/public/NewsWeb.mp4)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
